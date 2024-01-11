@@ -1,0 +1,17 @@
+export const serviceImage  =[
+    {id:1, name:"Haircut",image:require('../image/h1.jpeg')},
+    {id:2,name:"Nail", image:require('../image/h1.jpeg')},
+    {id:3, name:"MakeUp",image:require('../image/h1.jpeg')},
+    {id:4, name:"Skin care",image:require('../image/h1.jpeg')},
+    {id:5, name:"Spa",image:require('../image/h1.jpeg')},
+    {id:6, name:"Haircurl",image:require('../image/h1.jpeg')},
+    {id:7, name:"Hair Dry",image:require('../image/h1.jpeg')},
+    {id:8, name:"Body beauty",image:require('../image/h1.jpeg')},
+    {id:9, name:"Nail extensions",image:require('../image/h1.jpeg')},
+    {id:10, name:"Hair extension",image:require('../image/h1.jpeg')},
+    {id:11, name:"Nail",image:require('../image/h1.jpeg')},
+    {id:12, name:"Body spa",image:require('../image/h1.jpeg')},
+    {id:13, name:"hair colour",image:require('../image/h1.jpeg')},
+    {id:14, name:"Make up",image:require('../image/h1.jpeg')},
+    {id:15, name:"Hair care",image:require('../image/h1.jpeg')},
+]
